@@ -1,0 +1,15 @@
+listen a 
+is_prime is false
+i = 2
+
+while i is less a (
+    if a / i is 0 (
+        is_prime is true
+    )
+)
+
+if is_prime(
+    show "Prime"
+) else (
+    show "Not Prime"
+)

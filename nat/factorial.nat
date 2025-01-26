@@ -1,0 +1,9 @@
+fac is 1
+i is 1
+listen n
+while i < n ( 
+    fac is fac * i
+    i is i + 1
+    )
+
+show fac

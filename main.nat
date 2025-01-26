@@ -1,0 +1,7 @@
+a is 3
+show a
+show "Hello World"
+
+while 3>2(
+    show 3
+)
